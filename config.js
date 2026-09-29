@@ -1,11 +1,1 @@
-window.SUPER_CFG = {
-  NAME: "SUPERPAD",
-  TICKER: "SUPER",
-  CA: "",
-  CHAIN: "solana",
-  PAD: "pumpfun",
-  PAIR: "",
-  X: "",
-  BUY: "",   // empty = https://pump.fun/coin/<CA>
-  CHART: ""  // empty = https://gmgn.ai/sol/token/<CA>
-};
+window.SUPER_CFG={NAME:"SUPERPAD",TICKER:"SUPER",CA:"onoMzzuFRAPr1nWHjyK7n5yyFzdQzemzbGLnNmNpump",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"https://x.com/superpadai",BUY:"https://pump.fun/coin/onoMzzuFRAPr1nWHjyK7n5yyFzdQzemzbGLnNmNpump",CHART:"https://gmgn.ai/sol/token/onoMzzuFRAPr1nWHjyK7n5yyFzdQzemzbGLnNmNpump"};
